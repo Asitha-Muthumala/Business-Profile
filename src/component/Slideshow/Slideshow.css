@@ -1,0 +1,13 @@
+.slideShow-container {
+    width: 100%;
+    height: auto;
+}
+
+.slideShow-image-container {
+    height: 90vh;
+}
+
+.slideShow-image {
+    width: 100vw;
+    height: 100%;
+}
