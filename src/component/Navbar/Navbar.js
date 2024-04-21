@@ -1,10 +1,10 @@
 import React, { useState } from "react";
 import "../Navbar/Navbar.css";
-import { Typography, Button, Flex, Modal } from 'antd';
+import { Button, Flex, Modal } from 'antd';
 
 import { MenuOutlined, CloseOutlined } from '@ant-design/icons';
 
-const { Title } = Typography;
+import logo from '../../asset/Pictures/logo.png';
 
 function Navbar() {
 
@@ -13,7 +13,7 @@ function Navbar() {
     return (
         <div className="navbar-container">
             <div className="logo">
-                <Title level={4}>Lagoonria</Title>
+                <img className="logo-image" src={logo} alt="" />
             </div>
             <div className="links">
                 <Flex gap="small" align="center" wrap="wrap" justify="space-between" className="menu-list-container">

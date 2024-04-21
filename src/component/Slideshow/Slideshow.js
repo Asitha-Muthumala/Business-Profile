@@ -12,20 +12,32 @@ function Slideshow() {
         <div className="slideShow-container">
 
             <Carousel autoplay>
-                <div className="slideShow-image-container">
-                    <img src={sampleImg1} className="slideShow-image" alt="" />
+                <div className="slideShow-slide">
+                    <div className="slideShow-image-container">
+                        <img src={sampleImg1} className="slideShow-image" alt="" />
+                        <div className="slideShow-text">Text 1</div>
+                    </div>
                 </div>
 
-                <div className="slideShow-image-container">
-                    <img src={sampleImg2} className="slideShow-image" alt="" />
+                <div className="slideShow-slide">
+                    <div className="slideShow-image-container">
+                        <img src={sampleImg2} className="slideShow-image" alt="" />
+                        <div className="slideShow-text">Text 1</div>
+                    </div>
                 </div>
 
-                <div className="slideShow-image-container">
-                    <img src={sampleImg3} className="slideShow-image" alt="" />
+                <div className="slideShow-slide">
+                    <div className="slideShow-image-container">
+                        <img src={sampleImg3} className="slideShow-image" alt="" />
+                        <div className="slideShow-text">Text 1</div>
+                    </div>
                 </div>
 
-                <div className="slideShow-image-container">
-                    <img src={sampleImg4} className="slideShow-image" alt="" />
+                <div className="slideShow-slide">
+                    <div className="slideShow-image-container">
+                        <img src={sampleImg4} className="slideShow-image" alt="" />
+                        <div className="slideShow-text">Text 1</div>
+                    </div>
                 </div>
             </Carousel>
 

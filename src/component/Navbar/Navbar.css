@@ -14,6 +14,10 @@
     padding-left: 3rem;
 }
 
+.logo-image {
+    width: 5rem;
+}
+
 .links {
     width: 80%;
     height: 100%;
@@ -36,7 +40,6 @@
 
 .menu-list-container {
     width: 50%;
-    /* background-color: blueviolet; */
 }
 
 .menu-modal .ant-modal-content {
@@ -78,6 +81,7 @@
     .menu-icon-container {
         display: flex;
     }
+
     .menu-list-container {
         display: none;
     }

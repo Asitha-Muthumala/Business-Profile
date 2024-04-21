@@ -3,6 +3,10 @@
     height: auto;
 }
 
+.slideShow-slide {
+    position: relative;
+}
+
 .slideShow-image-container {
     height: 90vh;
 }
@@ -10,4 +14,13 @@
 .slideShow-image {
     width: 100vw;
     height: 100%;
+}
+
+.slideShow-text {
+    position: absolute;
+    bottom: 40%;
+    left: 8rem; 
+    color: rgb(134, 134, 134);
+    font-size: 2rem;
+    padding: 5px;
 }
