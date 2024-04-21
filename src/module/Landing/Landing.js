@@ -3,6 +3,7 @@ import Navbar from '../../component/Navbar/Navbar';
 import Slideshow from '../../component/Slideshow/Slideshow';
 
 import "../Landing/Landing.css";
+import About from "../../component/About/About";
 
 
 function Landing() {
@@ -11,6 +12,7 @@ function Landing() {
 
             <Navbar />
             <Slideshow />
+            <About />
 
         </div>
     );
