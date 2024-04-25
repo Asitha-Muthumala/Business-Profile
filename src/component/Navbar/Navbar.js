@@ -4,7 +4,7 @@ import { Button, Flex, Modal } from 'antd';
 
 import { MenuOutlined, CloseOutlined } from '@ant-design/icons';
 
-import logo from '../../asset/Pictures/logo.png';
+import logo from '../../asset/Pictures/logo1.png';
 
 function Navbar() {
 

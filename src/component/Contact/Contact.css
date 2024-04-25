@@ -1,0 +1,39 @@
+.contact-container {
+    width: 100%;
+    height: auto;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+}
+
+.details-main-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.details-container {
+    height: 15vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.details-header {
+    width: 100%;
+    display: flex;
+}
+
+.icon {
+    font-size: 1.5rem;
+    margin-right: 1.5rem;
+    color: rgb(255, 188, 5);
+}
+
+.submit-button {
+    margin-top: 2vh;
+    width: 100%;
+}
+
+.form-label {
+    margin-bottom: 0px;
+}

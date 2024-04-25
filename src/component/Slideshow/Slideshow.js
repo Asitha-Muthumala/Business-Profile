@@ -15,7 +15,7 @@ function Slideshow() {
                 <div className="slideShow-slide">
                     <div className="slideShow-image-container">
                         <img src={sampleImg1} className="slideShow-image" alt="" />
-                        <div className="slideShow-text">Text 1</div>
+                        <div className="slideShow-text">"Explore Tranquility" Positioned on an image featuring a serene lagoon at dawn.</div>
                     </div>
                 </div>
 

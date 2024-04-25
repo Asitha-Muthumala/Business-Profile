@@ -15,7 +15,7 @@
 }
 
 .logo-image {
-    width: 5rem;
+    width: 7rem;
 }
 
 .links {
@@ -34,7 +34,7 @@
 }
 
 .link-buttons:hover {
-    border-bottom: 2px solid red;
+    border-bottom: 2px solid rgb(24, 54, 10);
     border-radius: 0px;
 }
 
