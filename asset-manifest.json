@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Business-Profile/static/css/main.924f6d2c.css",
+    "main.js": "/Business-Profile/static/js/main.1eca2d04.js",
+    "static/js/453.48b2fb2c.chunk.js": "/Business-Profile/static/js/453.48b2fb2c.chunk.js",
+    "static/media/sampleImg1.jpg": "/Business-Profile/static/media/sampleImg1.e345afe191ea4de4596d.jpg",
+    "static/media/sampleImg3.jpg": "/Business-Profile/static/media/sampleImg3.592d76430a6675694aa2.jpg",
+    "static/media/sampleImg2.jpg": "/Business-Profile/static/media/sampleImg2.d3eb9a473393ca69dc91.jpg",
+    "static/media/sampleImg4.jpg": "/Business-Profile/static/media/sampleImg4.3629a9239d9302774161.jpg",
+    "static/media/logo1.png": "/Business-Profile/static/media/logo1.35fe19a8292325a8c4a9.png",
+    "static/media/aboutUs.svg": "/Business-Profile/static/media/aboutUs.31d45f426f4541b0f17e0d4b11824015.svg",
+    "index.html": "/Business-Profile/index.html",
+    "main.924f6d2c.css.map": "/Business-Profile/static/css/main.924f6d2c.css.map",
+    "main.1eca2d04.js.map": "/Business-Profile/static/js/main.1eca2d04.js.map",
+    "453.48b2fb2c.chunk.js.map": "/Business-Profile/static/js/453.48b2fb2c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.924f6d2c.css",
+    "static/js/main.1eca2d04.js"
+  ]
+}
